@@ -9,7 +9,7 @@ This example is to show different parts of the Git repository and various comman
 
 This is my second paragraph for the intro just adding some random text!
 
-This is my 3rd paragraph....
+Doing emergency fix after our stash!
 ## Purpose
 
 As stated above, the main purpose is to provide simple examples for Git training demos.
