@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Lilly Bueche l.bueche@lillysoft.com @lillybuenotwitter
 
 # THANKS
 
